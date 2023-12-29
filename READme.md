@@ -1,4 +1,4 @@
- **# CPU Scheduling**
+ **CPU Scheduling**
 
 **Optimizing resource allocation and task completion through strategic process management.**
 
